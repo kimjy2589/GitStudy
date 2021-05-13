@@ -10,3 +10,5 @@
 
   협업을 위한 원격 저장소 
 
+- 작업공간
+  - Working Directory
