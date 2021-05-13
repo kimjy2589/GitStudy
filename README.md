@@ -23,3 +23,12 @@
 - $ git init
 - $ git add
 - $ git commit
+
+
+### Local Repository -> Remote Repository
+- $ git push
+-   로컬 저장소에 있는 내용을 원격 저장소에 저장
+
+### Remote Repository -> Local Repository
+- $ git pull
+-   원격 저장소에 있는 내용은 로컬 저장소(Local Repository)에 반영
