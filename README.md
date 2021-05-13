@@ -13,10 +13,10 @@
      - 내 PC에서 git을 사용하는 작업공간
   - Local Repository 
     -  임시 버전들이 올라가는 공간 
-    -  (git)
+    -  git
   - Remote Repository 
     -  최종 확정본이 올라가는 공간 
-    -  (github)
+    -  github
 
 ## Git 명령어
 ### Working directory -> Local Repository
