@@ -8,7 +8,7 @@
 ### github
 - 협업을 위한 원격 저장소 
 
-### 작업공간
+### 저장소
   - Working Directory 
      - 내 PC에서 git을 사용하는 작업공간
   - Local Repository 
