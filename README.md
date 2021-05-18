@@ -60,7 +60,7 @@
 ## 사용 방법
 
 ### 깃 허브에 저장하기
-$ git status
-$ git add .
-$ git commit -m "0518"
-$ git push origin jiyoung
+- $ git status
+- $ git add .
+- $ git commit -m "0518"
+- $ git push origin jiyoung
